@@ -1,0 +1,10 @@
+C:\Users\omarf\source\repos\Farah_O_Exercise5\Playfair Matrix\bin\Debug\Playfair Matrix.exe.config
+C:\Users\omarf\source\repos\Farah_O_Exercise5\Playfair Matrix\bin\Debug\Playfair Matrix.exe
+C:\Users\omarf\source\repos\Farah_O_Exercise5\Playfair Matrix\bin\Debug\Playfair Matrix.pdb
+C:\Users\omarf\source\repos\Farah_O_Exercise5\Playfair Matrix\obj\Debug\Playfair Matrix.csproj.AssemblyReference.cache
+C:\Users\omarf\source\repos\Farah_O_Exercise5\Playfair Matrix\obj\Debug\Playfair_Matrix.Form1.resources
+C:\Users\omarf\source\repos\Farah_O_Exercise5\Playfair Matrix\obj\Debug\Playfair_Matrix.Properties.Resources.resources
+C:\Users\omarf\source\repos\Farah_O_Exercise5\Playfair Matrix\obj\Debug\Playfair Matrix.csproj.GenerateResource.cache
+C:\Users\omarf\source\repos\Farah_O_Exercise5\Playfair Matrix\obj\Debug\Playfair Matrix.csproj.CoreCompileInputs.cache
+C:\Users\omarf\source\repos\Farah_O_Exercise5\Playfair Matrix\obj\Debug\Playfair Matrix.exe
+C:\Users\omarf\source\repos\Farah_O_Exercise5\Playfair Matrix\obj\Debug\Playfair Matrix.pdb
