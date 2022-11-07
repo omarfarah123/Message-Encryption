@@ -13,6 +13,8 @@
 
 ## Description
 A message encryption windows application used to ensure you can create encrypted messages to share.
+Created Using the Ceaser Cipher Algorithm and depending on what the user entered for the secret word the message will
+Be encrypted according to the word inserted.
 ## Installation
 Extract and run solution
 ## Use
